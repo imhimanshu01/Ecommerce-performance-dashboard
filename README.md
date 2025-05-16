@@ -54,13 +54,6 @@ A dynamic Power BI dashboard that provides deep insights into sales, profit, qua
 
 ---
 
-## 📁 Folder Structure (Optionalgullix-ecommerce-dashboard/
-│
-├── 📊 Dashboard_Screenshot.png
-├── 📈 Gullix_Store_Dashboard.pbix
-├── 📄 README.md
-└── 📁 Data/ (raw or sample datasets)
-
 ---
 
 ## 🔮 Future Enhancements
@@ -71,10 +64,6 @@ A dynamic Power BI dashboard that provides deep insights into sales, profit, qua
 - Optimize dashboard for mobile view.
 
 ---
-
-## 🙏 Acknowledgements
-
-Thanks to the Power BI community, forums, and online learning platforms for support and resources.
 
 ---
 

@@ -54,5 +54,32 @@ A dynamic Power BI dashboard that provides deep insights into sales, profit, qua
 
 ---
 
-## 📁 Folder Structure (Optional)
+## 📁 Folder Structure (Optionalgullix-ecommerce-dashboard/
+│
+├── 📊 Dashboard_Screenshot.png
+├── 📈 Gullix_Store_Dashboard.pbix
+├── 📄 README.md
+└── 📁 Data/ (raw or sample datasets)
+
+---
+
+## 🔮 Future Enhancements
+
+- Add sales forecasting models.
+- Integrate RFM and customer segmentation.
+- Enable automatic data refresh via Power BI Gateway.
+- Optimize dashboard for mobile view.
+
+---
+
+## 🙏 Acknowledgements
+
+Thanks to the Power BI community, forums, and online learning platforms for support and resources.
+
+---
+
+## 📌 Author
+
+**Himanshu Soni**  
+
 
